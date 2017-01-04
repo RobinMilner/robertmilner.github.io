@@ -20,15 +20,13 @@ body{
     position: relative;
     font-family: 'Lobster', cursive;
 }
-body{
-    background-color: #e6ecfc;
-}
 ul {
-    list-style-type: none;
+    list-style-type:none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #1a1a1a;
+    position:relative;
 }
 
 li {
@@ -93,7 +91,13 @@ a active{
     padding-left:2%;
     margin-right: 100px;
 }
-img{
-    margin-left:70px;
-    width: 30%;
+.slideshow{
+    margin-right:3%;
+    margin-left:3%;
+    text-align:center;
+}
+.slideshow img{
+    margin-left:2%;
+    margin-right:2%;
+    width:30%;
 }
