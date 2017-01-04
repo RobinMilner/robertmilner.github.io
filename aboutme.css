@@ -8,10 +8,11 @@ body{
     position: absolute;
     width:100%;
     text-align:center;
-    height:40%;
+    height:55%;
     background-position: center;
     background-attachment: fixed;
     filter: brightness(20%) grayscale(100%);
+    margin-top: -10%;
 }
 .headername{
     text-align: center;
@@ -22,7 +23,6 @@ body{
 }
 ul {
     list-style-type:none;
-    margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #1a1a1a;
