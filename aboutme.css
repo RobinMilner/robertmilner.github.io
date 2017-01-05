@@ -23,10 +23,11 @@ body{
 }
 ul {
     list-style-type:none;
-    padding: 0;
+    padding: 0px;
     overflow: hidden;
     background-color: #1a1a1a;
     position:relative;
+    margin:0px
 }
 
 li {
