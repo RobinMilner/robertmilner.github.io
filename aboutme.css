@@ -109,3 +109,13 @@ a active{
     background-position: bottom;
     background-attachment: fixed;
 }
+.icons{
+    text-align:center;
+    margin-right:5%;
+    margin-left:5%;
+}
+.icons img{
+    width:10%;
+    margin-right 2%;
+    margin-left:2%;
+}
