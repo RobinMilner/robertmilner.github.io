@@ -3,7 +3,6 @@ body{
     background-color: #e6ecfc;
 }
 .headerpicture{
-    background-image: url("images/snow.jpg");
     background-repeat: no-repeat;
     position: absolute;
     width:100%;
