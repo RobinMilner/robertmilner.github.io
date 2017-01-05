@@ -12,6 +12,7 @@ body{
     background-attachment: fixed;
     filter: brightness(20%) grayscale(100%);
     margin-top: -10%;
+    background-image: url("images/snow.jpg");
 }
 .headername{
     text-align: center;
