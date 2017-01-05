@@ -2,7 +2,8 @@ body{
     margin:0px;
     background-color: #e6ecfc;
 }
-.headerpicture img{
+.headerpicture{
+    background-image: url("images/snow.jpg");
     background-repeat: no-repeat;
     width:100%;
     text-align:center;
@@ -13,25 +14,19 @@ body{
     filter: brightness(20%) grayscale(100%);
     margin:0px;
 }
-.headerpicture{
-    padding:0px;
-    line-height:0px;
-    margin:0px;
-}
 .headername{
     text-align: center;
     color: white;
     font-size:50px;
     font-family: 'Lobster', cursive;
-    position:relative;
+    position:absolute;
 }
 ul {
     list-style-type:none;
-    padding: 0px;
+    padding: 0;
     overflow: hidden;
     background-color: #1a1a1a;
     position:relative;
-    margin:0px
 }
 
 li {
@@ -105,8 +100,4 @@ a active{
     margin-left:2%;
     margin-right:2%;
     width:30%;
-}
-h1{
-    margin:0px;
-    padding:0px;
 }
