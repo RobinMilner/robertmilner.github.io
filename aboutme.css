@@ -105,9 +105,6 @@ a active{
     background-image: url("images/snow.jpg");
     margin:0px;
     padding:67px;
-    background-position: center;
+    background-position: bottom;
     background-attachment: fixed;
-}
-.headername background-image{
-       filter: brightness(20%) grayscale(100%);
 }
