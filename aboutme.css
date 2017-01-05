@@ -5,21 +5,21 @@ body{
 .headerpicture{
     background-image: url("images/snow.jpg");
     background-repeat: no-repeat;
+    position: absolute;
     width:100%;
     text-align:center;
-    height:55%;
-    position: absolute;
+    height:50%;
     background-position: center;
     background-attachment: fixed;
     filter: brightness(20%) grayscale(100%);
-    margin:0px;
+    margin-top: -10%;
 }
 .headername{
     text-align: center;
     color: white;
     font-size:50px;
+    position: relative;
     font-family: 'Lobster', cursive;
-    position:absolute;
 }
 ul {
     list-style-type:none;
