@@ -27,12 +27,13 @@ ul {
     background-color: #1a1a1a;
     position:relative;
     margin:0px;
+    text-decoration: none;
 }
 
 li {
     float: left;
     font-family: arial;
-    text-decoration:underline;
+    text-decoration:none;
 }
 
 li a {
