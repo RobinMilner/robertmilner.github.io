@@ -16,6 +16,7 @@ body{
     width:100%;
     background-repeat:no-repeat;
     filter: brightness(20%) grayscale(100%);
+    padding:15%
 }
 ul {
     list-style-type:none;
@@ -23,6 +24,7 @@ ul {
     overflow: hidden;
     background-color: #1a1a1a;
     position:relative;
+    margin:0%;
 }
 
 li {
