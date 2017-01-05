@@ -101,11 +101,13 @@ a active{
     margin-right:2%;
     width:30%;
 }
-h1{
+.headername h1{
     background-image: url("images/snow.jpg");
     margin:0px;
     padding:67px;
     background-position: center;
     background-attachment: fixed;
-    filter: brightness(20%) grayscale(100%);
+}
+.headername background-image{
+       filter: brightness(20%) grayscale(100%);
 }
