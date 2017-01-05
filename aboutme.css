@@ -13,6 +13,9 @@ body{
     filter: brightness(20%) grayscale(100%);
     margin:0px;
 }
+.headerpicture{
+    padding:0px
+}
 .headername{
     text-align: center;
     color: white;
