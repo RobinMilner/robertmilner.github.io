@@ -111,6 +111,7 @@ a active{
     padding-top:18.5%;
     background-position: bottom;
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 .icons{
     text-align:center;
