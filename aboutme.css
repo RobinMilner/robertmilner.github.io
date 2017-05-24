@@ -66,8 +66,9 @@ hr{
     text-align: left;
     font-size: 20px;
     margin-top: -2%;
-    padding-left:3%;
-    padding-right:3%;
+    padding-left:5%;
+    padding-right:5%;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .footer{
     margin-top: 5%;
@@ -76,6 +77,7 @@ hr{
     color: white;
     font-size:15px;
     text-align: right;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 a{
     color: white;
@@ -92,6 +94,7 @@ a active{
     margin-top: -2%;
     padding-left:3%;
     margin-right: 100px;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .slideshow{
     margin-right:3%;
@@ -111,7 +114,6 @@ a active{
     padding-top:12%;
     background-position: bottom;
     background-attachment: fixed;
-    background-repeat: no-repeat;
 }
 .icons{
     text-align:center;
@@ -130,16 +132,17 @@ h1{
 }
 .pfp th, td{
     padding-top: 1%;
-    padding-left: 2%;
     vertical-align: top;
     text-align: left;
+    padding-right: 2%;
 }
 .pfp{
-    padding-right:2%;
+    padding-right:9%;
+    padding-left: 9%;
 }
 .pfp td{
-    font-family: 'Oswald', sans-serif;
-    font-size: 23px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 153%;
 }
 .pfpname{
     text-align:center;
