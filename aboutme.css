@@ -20,7 +20,7 @@ body{
     position: relative;
     font-family: 'Fjalla One', sans-serif;
 }
-ul {
+.icons ul {
     list-style-type:none;
     padding: 0;
     overflow: hidden;
@@ -30,14 +30,14 @@ ul {
     text-decoration: none;
 }
 
-li {
+.icons li {
     float: left;
     font-family: arial;
     text-decoration:none;
     width:50%
 }
 
-li a {
+.icons li a {
     display: block;
     color: white;
     text-align: center;
@@ -168,4 +168,7 @@ h1{
   float: left;
   border-left: 3px #e5e5d1 solid;
   padding-left: 30px;
+}
+.timeline{
+    text-align:center;
 }
