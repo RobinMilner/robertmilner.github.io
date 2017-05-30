@@ -153,3 +153,19 @@ h1{
 .pfp th{
     font-family: 'Fjalla One', sans-serif;
 }
+.timeline > li {
+  overflow: hidden;
+  margin: 0;
+  position: relative;
+}
+.timeline-date {
+  width: 110px;
+  float: left;
+  margin-top: 20px;
+}
+.timeline-content {
+  width: 75%;
+  float: left;
+  border-left: 3px #e5e5d1 solid;
+  padding-left: 30px;
+}
